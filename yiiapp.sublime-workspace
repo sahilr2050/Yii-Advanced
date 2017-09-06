@@ -1,0 +1,1841 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"setTime",
+				"setTimeout"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"op",
+				"option\t<option>"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"user",
+				"userid"
+			],
+			[
+				"inputs",
+				"inputs\tinput - submit"
+			],
+			[
+				"inputt",
+				"inputt\tinput - text"
+			],
+			[
+				"script",
+				"script\tTag"
+			],
+			[
+				"scri",
+				"script\tTag"
+			],
+			[
+				"esca",
+				"escapeHTML〔function〕"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"postio",
+				"position"
+			],
+			[
+				"style",
+				"style\tTag"
+			],
+			[
+				"curre",
+				"currentTag"
+			],
+			[
+				"tag",
+				"tagnumber"
+			],
+			[
+				"current",
+				"currentID"
+			],
+			[
+				"va",
+				"val\t.val()"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"error",
+				"error_reporting\t(function.php)"
+			],
+			[
+				"brand",
+				"brandname"
+			],
+			[
+				"inner",
+				"innertext"
+			],
+			[
+				"target",
+				"target='_blank"
+			],
+			[
+				"sConte",
+				"sContentTitle"
+			],
+			[
+				"fashion",
+				"fashionpotluck.com\t(Aug'17.todo)"
+			],
+			[
+				"res",
+				"resizeSRC"
+			],
+			[
+				"targe",
+				"target=\"_blank\t(Utility.php)"
+			],
+			[
+				"ut",
+				"updatebp\tYii Model updateByPk"
+			],
+			[
+				"model",
+				"yii\\base\\Model"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"E_",
+				"E_ERROR"
+			],
+			[
+				"err",
+				"error_reporting〔function〕"
+			],
+			[
+				"__c",
+				"__construct"
+			],
+			[
+				"text",
+				"textarea\t<textarea>"
+			],
+			[
+				"pre",
+				"pre\techopre"
+			],
+			[
+				"pe",
+				"pre\techopre"
+			],
+			[
+				"n",
+				"nUserID"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"as",
+				"async"
+			],
+			[
+				"parse",
+				"parseJSON〔function〕"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"del",
+				"delay\t.delay()"
+			],
+			[
+				"productB",
+				"productBrand"
+			],
+			[
+				"dis",
+				"display\t(guest_user.min.js)"
+			],
+			[
+				"jq",
+				"jquery.min.js"
+			],
+			[
+				"typ",
+				"typeof\t(guest_user.min.js)"
+			],
+			[
+				"exis",
+				"exist"
+			],
+			[
+				"attr",
+				"attr\t.attr() - single"
+			],
+			[
+				"Uti",
+				"Utility::getLink('js"
+			],
+			[
+				"POS",
+				"POS_HEAD\t(View.php)"
+			],
+			[
+				"loading",
+				"div.loading"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"func",
+				"func_get_arg〔function〕"
+			],
+			[
+				"adds",
+				"addslashes〔function〕"
+			],
+			[
+				"fash",
+				"front.fashionpotluck.net\t(hosts)"
+			],
+			[
+				"Server",
+				"ServerName"
+			],
+			[
+				"elem",
+				"element"
+			],
+			[
+				"Ques",
+				"Question::model\t(QuizController.php)"
+			],
+			[
+				"Quiz",
+				"Quiz::model\t(UsersController.php)"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"Yii",
+				"Yii::app"
+			],
+			[
+				"request",
+				"request〔variable〕"
+			],
+			[
+				"HTTP",
+				"HTTP_HOST\t(yiilite.php)"
+			],
+			[
+				"smt",
+				"SMTPDebug〔variable〕"
+			],
+			[
+				"Email",
+				"EmailNotificationID"
+			],
+			[
+				"users",
+				"users_email_notification"
+			],
+			[
+				"EmailSent",
+				"EmailSentID"
+			],
+			[
+				"EmailS",
+				"EmailSentDate"
+			],
+			[
+				"EmailSet",
+				"EmailSentID"
+			],
+			[
+				"USer",
+				"UserID"
+			],
+			[
+				"para",
+				"params"
+			],
+			[
+				"find",
+				"findByPk"
+			],
+			[
+				"Last",
+				"LastLogin"
+			],
+			[
+				"getAttrib",
+				"getAttributes〔function〕"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"UserId",
+				"UserID"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"get",
+				"getAttributes〔function〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"ajax",
+				"ajax\t$.ajax()"
+			],
+			[
+				"findby",
+				"findByAttributes〔function〕"
+			],
+			[
+				"condo",
+				"condition"
+			],
+			[
+				"Las",
+				"LastLogin"
+			],
+			[
+				"User",
+				"UserID\t(CourseStudentsController.php)"
+			],
+			[
+				"Trainer",
+				"TrainerID\t(CoursesController.php)"
+			],
+			[
+				"Student",
+				"StudentID"
+			],
+			[
+				"CmsPageTyp",
+				"CmsPageTypeID"
+			],
+			[
+				"CHtml",
+				"CHtml::listData($posts,'id',function($post\t(CHtml.php)"
+			],
+			[
+				"EmailTEm",
+				"EmailTemplateTypeID"
+			],
+			[
+				"EmailTem",
+				"EmailTemplateTypes〔class〕"
+			],
+			[
+				"Assess",
+				"AssessmentID"
+			],
+			[
+				"QuizT",
+				"QuizTypeID"
+			],
+			[
+				"asse",
+				"AssessmentID\t(admin.php)"
+			],
+			[
+				"Asse",
+				"Assessments〔class〕"
+			],
+			[
+				"Compe",
+				"Competencies〔class〕"
+			],
+			[
+				"Ass",
+				"Assessment\t(main.php)"
+			],
+			[
+				"CourseType",
+				"courseType"
+			],
+			[
+				"CourseT",
+				"CourseTypes〔class〕"
+			],
+			[
+				"Studen",
+				"StudentID"
+			],
+			[
+				"long",
+				"long_name"
+			],
+			[
+				"cols",
+				"col-sm-12"
+			],
+			[
+				"panel",
+				"panel-body"
+			],
+			[
+				"le",
+				"legend\tTag"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"cop",
+				"copytoright"
+			],
+			[
+				"title",
+				"title\tAttr"
+			],
+			[
+				"java",
+				"javascript:void"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"pane",
+				"panel-body"
+			],
+			[
+				"div",
+				"div\tTag"
+			],
+			[
+				"errr",
+				"error"
+			],
+			[
+				"bs",
+				"bs3-cdn\tbs3-cdn"
+			],
+			[
+				"count",
+				"countdown"
+			],
+			[
+				"link",
+				"links\tlink - stylesheet"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"gra",
+				"gradientSpeed\t(gradient.js)"
+			],
+			[
+				"scrip",
+				"script\tHTML - Script"
+			],
+			[
+				"back",
+				"background\t(gradient.js)"
+			],
+			[
+				"Course",
+				"CourseID\t(UsersController.php)"
+			],
+			[
+				"C",
+				"Course\t(June'17.todo)"
+			],
+			[
+				"hide",
+				"hidden"
+			],
+			[
+				"CourseC",
+				"CourseCode\t(Courses.php)"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"att",
+				"attributes\t(UsersController.php)"
+			],
+			[
+				"Firs",
+				"FirstName"
+			],
+			[
+				"Nmae",
+				"Name"
+			],
+			[
+				"courseid",
+				"courseid"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "delete",
+		"selected_items":
+		[
+			[
+				"delete",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"empty",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"st html",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"CodeFormatter: Format as HTML Syntax"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"set php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set htl",
+				"Set Syntax: HTML"
+			],
+			[
+				"trimee",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"trimmer",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"dee",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"set sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"empt",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"set task",
+				"Set Syntax: Tasks"
+			],
+			[
+				"dle",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"dele",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Snippet: .insertAfter()"
+			],
+			[
+				"space",
+				"Trimmer: Collapse spaces."
+			],
+			[
+				"yii mode",
+				"Snippet: Yii2 - Model find"
+			],
+			[
+				"font",
+				"FontCycler - Next Font"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"plai",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"php",
+				"phpfmt: format now"
+			],
+			[
+				"formate",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"packa d",
+				"Package Control: Disable Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"reactD",
+				"Snippet: React: React.findDOMNode(…)"
+			],
+			[
+				"react",
+				"Snippet: React: this.props"
+			],
+			[
+				"rea",
+				"Snippet: React: class component"
+			],
+			[
+				"plainte",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"setphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"set tas",
+				"Set Syntax: Tasks"
+			],
+			[
+				"set te",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"text",
+				"Snippet: bs3-textarea"
+			],
+			[
+				"setSQL",
+				"Set Syntax: SQL"
+			],
+			[
+				"PHP Class browser:",
+				"PHP Class browser: Open Browser"
+			],
+			[
+				"PHP Class browser: (Re)Create Database",
+				"PHP Class browser: (Re)Create Database"
+			],
+			[
+				"set ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"trai",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"de",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"delet",
+				"Trimmer: Delete empty lines."
+			],
+			[
+				"set ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"set p",
+				"Set Syntax: Python"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sette",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"tast",
+				"Tasks: New document"
+			],
+			[
+				"set plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"set text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"set tex",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"sethtl",
+				"Set Syntax: HTML"
+			],
+			[
+				"tasks:",
+				"Tasks: New document"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"codeFormatter:",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"codeF",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"new do",
+				"Tasks: New document"
+			],
+			[
+				"toggle m",
+				"View: Toggle Minimap"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"tasknew",
+				"Tasks: New document"
+			],
+			[
+				"new ",
+				"Tasks: New"
+			],
+			[
+				"",
+				"A File Icon: Environment"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"theme",
+				"Material Theme: Configuration"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mate",
+				"Material Theme: Configuration"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 570.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/D/Projects/wamp64/www/yii-application/common/config/main.php",
+		"/D/Projects/wamp64/www/advanceadmin/backend/config/main.php",
+		"/D/Projects/wamp64/www/advanceadmin/backend/controllers/SiteController.php",
+		"/D/Projects/wamp64/www/sof/fp.php",
+		"/D/Projects/wamp64/www/yii-application/backend/config/main.php",
+		"/D/Projects/wamp64/www/yii-application/console/controllers/RbacController.php",
+		"/D/Projects/wamp64/www/yii-application/frontend/models/SignupForm.php",
+		"/D/Projects/wamp64/www/yii-application/environments/prod/common/config/main-local.php",
+		"/D/Projects/wamp64/www/yii-application/environments/prod/backend/config/main-local.php",
+		"/D/Projects/wamp64/www/advanceadmin/frontend/config/main.php",
+		"/D/Projects/wamp64/www/advanceadmin/console/migrations/m170906_060702_rbac_init.php",
+		"/D/Projects/wamp64/www/advanceadmin/console/migrations/m130524_201442_init.php",
+		"/D/Projects/wamp64/www/advanceadmin/composer.json",
+		"/D/Projects/wamp64/www/advanceadmin/backend/controllers/UserController.php",
+		"/D/Projects/wamp64/www/advanceadmin/common/config/main.php",
+		"/D/Projects/wamp64/www/yii2-app/common/models/User.php",
+		"/D/Projects/wamp64/www/advanceadmin/backend/models/User.php",
+		"/D/Projects/wamp64/www/advanceadmin/console/controllers/RbacController.php",
+		"/D/Projects/wamp64/www/advanceadmin/common/models/User.php",
+		"/D/Projects/wamp64/www/advanceadmin/console/config/main.php",
+		"/D/Projects/wamp64/www/advanceadmin/backend/views/layouts/main.php",
+		"/D/Projects/wamp64/www/advanceadmin/backend/views/layouts/left.php",
+		"/D/Projects/wamp64/www/advanceadmin/vendor/codeception/base/Dockerfile",
+		"/D/Projects/wamp64/www/advanceadmin/common/models/LoginForm.php",
+		"/D/Projects/wamp64/www/advanceadmin/vendor/yiisoft/yii2/base/Model.php",
+		"/D/Projects/wamp64/www/advanceadmin/.htaccess",
+		"/D/Projects/wamp64/www/yii2-app/backend/views/layouts/main.php",
+		"/D/Projects/wamp64/www/yii2/backend/views/layouts/main.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/views/layouts/header.php",
+		"/D/Projects/wamp64/www/advanceadmin/backend/views/layouts/header.php",
+		"/D/Projects/wamp64/www/advanceadmin/vendor/dmstr/yii2-adminlte-asset/helpers/AdminLteHelper.php",
+		"/D/Projects/wamp64/www/advanceadmin/vendor/yii2mod/yii2-rbac/ConsoleModule.php",
+		"/D/Projects/wamp64/www/advanceadmin/console/controllers/commands/RbacController.php",
+		"/D/Projects/wamp64/www/advanceadmin/console/controllers/commands/New Text Document.txt",
+		"/D/Projects/wamp64/www/advanceadmin/backend/views/layouts/main-login.php",
+		"/E/Other/todo/Aug'17.todo",
+		"/C/Users/pcs157/AppData/Local/Temp/scp23478/home/fashi134/public_html/frontend/web/2k16/js/common_min.js",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/frontend/web/2k16/js/common_min.js",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/frontend/web/2k16/js/asset-upload.js",
+		"/C/Users/pcs157/AppData/Local/Temp/scp21219/home/fashi134/public_html/frontend/web/2k16/js/asset-upload.js",
+		"/C/Users/pcs157/AppData/Local/Temp/scp14518/home/fashi134/public_html/frontend/themes/2k16/home/index.php",
+		"/C/Users/pcs157/AppData/Local/Temp/scp12328/home/fashi134/public_html/frontend/themes/2k16/home/create-content.php",
+		"/C/Users/pcs157/AppData/Local/Temp/scp09488/home/fashi134/public_html/frontend/themes/2k16/content-details/index.php",
+		"/C/Users/pcs157/AppData/Local/Temp/scp03893/home/fashi134/public_html/frontend/controllers/ContentDetailsController.php",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/frontend/web/js/asset-upload.js",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/frontend/themes/2k16/layouts/head.php",
+		"/C/Users/pcs157/AppData/Local/Temp/scp17898/home/fashi134/public_html/frontend/themes/2k16/layouts/head.php",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/frontend/themes/2k16/home/index.php",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/frontend/themes/2k16/home/create-content.php",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/frontend/themes/2k16/content-details/index.php",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/frontend/controllers/ContentDetailsController.php",
+		"/C/Users/pcs157/Desktop/video-process-sahil.htm",
+		"/D/Projects/wamp64/www/advanceadmin/common/config/main-local.php",
+		"/D/Projects/wamp64/www/advanceadmin/console/config/main-local.php",
+		"/D/Projects/wamp64/www/advanceadmin/frontend/controllers/SiteController.php",
+		"/D/Projects/wamp64/www/advanceadmin/README.md",
+		"/D/Projects/wamp64/www/advanceadmin/vendor/mdmsoft/yii2-admin/components/DbManager.php",
+		"/D/Projects/wamp64/www/advanceadmin/common/config/test.php",
+		"/D/Projects/wamp64/www/advanceadmin/common/config/params-local.php",
+		"/D/Projects/wamp64/www/advanceadmin/common/config/params.php",
+		"/D/Projects/wamp64/www/advanceadmin/backend/config/main-local.php",
+		"/D/Projects/wamp64/www/advanceadmin/frontend/config/params.php",
+		"/D/Projects/wamp64/www/advanceadmin/frontend/config/params-local.php",
+		"/D/Projects/wamp64/www/advanceadmin/frontend/config/main-local.php",
+		"/D/Projects/wamp64/www/advanceadmin/common/config/bootstrap.php",
+		"/D/Projects/wamp64/www/advanceadmin/requirements.php",
+		"/D/Projects/wamp64/bin/php/php5.6.16/ext/php_memcache-3.0.8-5.6-nts-vc11-x64/README",
+		"/D/Projects/wamp64/www/yii2/composer.json",
+		"/C/Users/pcs157/AppData/Local/Temp/scp11424/frontend/web/2k16/js/common_min.js",
+		"/C/Users/pcs157/AppData/Local/Temp/scp11040/frontend/web/2k16/js/asset-upload.js",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/frontend/themes/2k16/popup/_image_tagging_brands.php",
+		"/C/Users/pcs157/AppData/Local/Temp/scp11331/frontend/themes/2k16/popup/_image_tagging_brands.php",
+		"/C/Users/pcs157/AppData/Local/Temp/scp39150/frontend/themes/2k16/content-details/index.php",
+		"/D/Projects/wamp64/bin/apache/apache2.4.17/conf/extra/httpd-vhosts.conf",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/frontend/config/main.php",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/frontend/controllers/ContentController.php",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/common/helpers/Utility.php",
+		"/D/Projects/wamp64/www/sof/image_demo.php",
+		"/C/Users/pcs157/AppData/Local/Temp/scp20509/frontend/themes/2k16/content-details/index.php",
+		"/C/Users/pcs157/AppData/Local/Temp/index.php-rev61091.svn000.tmp.php",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/frontend/themes/base/content-details/index.php",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/vendor/yiisoft/yii2/classes.php",
+		"/C/Users/pcs157/AppData/Local/Temp/scp12986/frontend/themes/2k16/layouts/head.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/Projects/wamp64/www/yii2/backend/config/main-local.php",
+		"/D/Projects/wamp64/www/sof/index.php",
+		"/D/Projects/wamp64/www/yii2/backend/config/main.php",
+		"/D/Projects/wamp64/www/yii2-app/backend/views/site/index.php",
+		"/D/Projects/wamp64/www/yii2-app/vendor/dmstr/yii2-adminlte-asset/README.md",
+		"/D/Projects/wamp64/www/yii2-app/frontend/web/.htaccess",
+		"/D/Projects/wamp64/www/sof/index3.php",
+		"/D/Projects/wamp64/www/sof/dane.json",
+		"/D/Projects/wamp64/www/sof/dan.json",
+		"/C/Users/pcs157/AppData/Local/Temp/scp20393/frontend/themes/2k16/layouts/head.php",
+		"/C/Users/pcs157/AppData/Local/Temp/scp22345/frontend/themes/2k16/home/index.php",
+		"/C/Users/pcs157/AppData/Roaming/FileZilla/sitemanager.xml",
+		"/C/Users/pcs157/AppData/Local/Temp/scp19992/frontend/themes/2k16/header/index.php",
+		"/D/Projects/xampp/htdocs/tailorsmark_uk/checkout_process.php",
+		"/D/Projects/xampp/htdocs/tailorsmark_au/checkout_process.php",
+		"/C/Users/pcs157/AppData/Local/Temp/scp21440/frontend/themes/2k16/content-details/index.php",
+		"/E/ProjectDocs/Fash_Pot_Doc/fashion_potluck_details.txt",
+		"/D/Projects/wamp64/www/Photo-tagging-master/includes/function.php",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/frontend/config/params.php",
+		"/C/Users/pcs157/AppData/Local/Temp/scp55339/frontend/themes/2k16/home/create-content.php",
+		"/C/Users/pcs157/AppData/Local/Temp/scp17639/frontend/web/2k16/js/common_min.js",
+		"/C/Users/pcs157/AppData/Local/Temp/scp56300/frontend/web/2k16/js/asset-upload.js",
+		"/C/Users/pcs157/AppData/Local/Temp/scp43652/frontend/themes/2k16/layouts/head.php",
+		"/C/Users/pcs157/Videos/inventory.txt",
+		"/C/Users/pcs157/Videos/amazon_babytoys_2012-07-21_205518.txt",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/vendor/yiisoft/yii2/db/Query.php",
+		"/D/Projects/wamp64/bin/apache/apache2.4.17/conf/httpd.conf",
+		"/D/Projects/wamp64/logs/apache_error.log",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/.htaccess",
+		"/D/Projects/wamp64/logs/access.log",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/frontend/web/index.php",
+		"/E/ProjectDocs/Fash_Pot_Doc/Suggestions.txt",
+		"/C/Users/pcs157/AppData/Local/Temp/scp28582/frontend/themes/2k16/content-details/index.php",
+		"/C/Users/pcs157/AppData/Local/Temp/scp32533/home/fashi134/public_html/frontend/themes/2k16/content-details/index.php",
+		"/D/Projects/wamp64/www/Photo-tagging-master/js/jquery.imgareaselect-0.8.min.js",
+		"/C/Users/pcs157/AppData/Local/Temp/scp26342/frontend/themes/2k16/content-details/index.php",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/frontend/controllers/HomeController.php",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/frontend/models/ContentAssets.php",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/common/models/ContentAssets.php",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/frontend/web/js/general.js",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/frontend/web/2k16/js/general.js",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/frontend/web/2k16/js/login_user.min.js",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/vendor/kartik-v/php-sdk-v4/src/Facebook/HttpClients/FacebookCurlHttpClient.php",
+		"/D/Projects/wamp64/www/staging_fashion_potluck/common/helpers/Facebook/HttpClients/FacebookCurlHttpClient.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+			"D:\\Projects\\wamp64\\www\\staging_fashion_potluck\\, *.js",
+			"D:\\Projects\\wamp64\\www\\staging_fashion_potluck\\, *.php",
+			"D:\\Projects\\wamp64\\www\\staging_fashion_potluck\\",
+			"\\\\192.168.10.4\\team11\\fp_pro\\frontend",
+			"\\\\192.168.10.4\\team11\\fp_pro\\frontend\\, *.php",
+			"D:\\Projects\\wamp64\\www\\fashion_potluck, *.js",
+			"D:\\Projects\\wamp64\\www\\fashion_potluck, ,-*.mp4, -*.tmp, ",
+			"D:\\Projects\\wamp64\\www\\fashion_potluck",
+			"*.php, D:\\Projects\\wamp64\\www\\fashion_potluck",
+			"D:\\Projects\\wamp64\\www\\universal_training\\, *.php",
+			"D:\\Projects\\wamp64\\www\\universal_training\\themes\\backend, *.php",
+			"D:\\Projects\\wamp64\\www\\universal_training\\protected\\views, *.php",
+			"D:\\Projects\\wamp64\\www\\universal_training\\themes\\backend, *.php",
+			"D:\\Projects\\wamp64\\www\\universal_training\\, *.php",
+			"D:\\Projects\\xampp\\htdocs\\tailorsmark_au\\, *.php",
+			"D:\\Projects\\wamp64\\www\\universal_training\\, *.php",
+			"D:\\Projects\\xampp\\htdocs\\tailorsmark_nz, *.php",
+			"D:\\Projects\\xampp\\htdocs\\tailorsmark_au, *.php",
+			"D:\\Projects\\xampp\\htdocs\\tailorsmark_nz\\, *.php",
+			"D:\\Projects\\wamp64\\www\\universal_training\\, *.php",
+			"D:\\Projects\\wamp64\\www\\universal_training\\protected, *.php",
+			"D:\\Projects\\wamp64\\www\\universal_training\\themes, *.php",
+			"D:\\Projects\\wamp64\\www\\universal_training\\themes, .*php",
+			"D:\\Projects\\wamp64\\www\\universal_training\\, .*php",
+			"D:\\Projects\\wamp64\\www\\universal_training\\",
+			"D:\\Projects\\wamp64\\www\\universal_training\\protected",
+			"D:\\Projects\\wamp64\\www\\universal_training\\",
+			"D:\\Projects\\wamp64\\www\\universal_training\\protected\\",
+			"D:\\Projects\\wamp64\\www\\universal_training\\",
+			"D:\\Projects\\wamp64\\www\\universal_training\\, *.php",
+			"D:\\Projects\\wamp64\\www\\universalinstitute\\, *.php",
+			"D:\\Projects\\wamp64\\www\\universalinstitute\\",
+			"D:\\Projects\\wamp64\\www\\universalinstitute\\protected",
+			"D:\\Projects\\wamp64\\www\\universalinstitute\\protected\\views\\competencies",
+			"D:\\Projects\\wamp64\\www\\universalinstitute\\",
+			"D:\\Projects\\wamp64\\www\\universalinstitute\\protected",
+			"D:\\Projects\\wamp64\\www\\universalinstitute\\protected\\views\\",
+			"D:\\Projects\\xampp\\htdocs\\tailorsmark_us\\includes",
+			"D:\\Projects\\xampp\\htdocs\\tailorsmark_uk\\application",
+			"D:\\Projects\\xampp\\htdocs\\tailorsmark_uk\\",
+			"D:\\Projects\\xampp\\htdocs\\tailorsmark_uk\\, *.php",
+			"D:\\Projects\\xampp\\htdocs\\tailorsmark_us\\, *.php",
+			"D:\\Projects\\xampp\\htdocs\\tailorsmark_us\\",
+			"D:\\Projects\\xampp\\htdocs\\tailorsmark_uk\\live\\"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'identityClass' => 'common\\models\\User',",
+			"app",
+			"gii",
+			"<body",
+			"            ...",
+			"migra",
+			"user",
+			"isMobile",
+			"=",
+			" = (",
+			"= ",
+			"width: fit-content;",
+			"taggingpan",
+			"tagging",
+			"create",
+			"it_map1",
+			"it_map",
+			"it_map1",
+			"it_ul",
+			"=\"display:none; font-size",
+			"it_ul",
+			"it_map it_ul",
+			"resize",
+			"h6",
+			"tagline",
+			"tagline'+curID+'",
+			"tagline",
+			"tafline",
+			"var getCurrentData = $('#dataimage'+curID).val();",
+			"for (var curID = 1; curID <= numberofimg; curID++) {",
+			";",
+			"\\",
+			"D:/Projects/wamp64/www/staging_fashion_potluck",
+			"$i].",
+			"array",
+			"levelTwo",
+			"childofLevelTwo",
+			"childofLevelOne",
+			"levelOne",
+			"Autosize",
+			".png\"",
+			"content_image_temp_url",
+			"ajax",
+			"upload",
+			"img(",
+			"opentaggingpanel",
+			"post",
+			"detail-buy-button-link",
+			"$_SERVER",
+			"$_SER",
+			"ipadress",
+			"blink",
+			".remove",
+			"$str",
+			"xa",
+			"it_img_holder",
+			"xa",
+			"remove",
+			"delete",
+			"deleteBr",
+			"data-tag-num",
+			").length",
+			" ",
+			"opentaggingpanel",
+			"remove ",
+			"$str",
+			"it_map",
+			"style=\"width: fit-content;margin: 0 auto;\"",
+			"imgbox-outer",
+			"contentI",
+			"it_img_holder",
+			". $dataImage .",
+			"dataimage",
+			"it_map",
+			"img(",
+			"<iimg",
+			"i",
+			"name=\"dataimage\" id",
+			"dataimage",
+			"exit;",
+			"it_map",
+			"image",
+			" = ",
+			"$str",
+			"->sContentImageColor",
+			"$contentAssets->sContentImageColor",
+			"contentAssets->save()",
+			"sContentImage",
+			"hid",
+			"Remove Image",
+			"staging_fashion_potluck",
+			"/",
+			"69 ",
+			"\\",
+			"D:/Projects/wamp64/www/staging_fashion_potluck",
+			"detail-buy-button-link",
+			"brandTagData",
+			"$str",
+			"span",
+			"background: rgba(8,8,8,0.5)   ",
+			"background: rgba(8,8,8,0.5);   ",
+			"position: absolute;\n    padding: 10px;\n    background: rgba(8,8,8,0.5);\n    border-radius: 10px;\n    color: #fff;\n    letter-spacing: 1px;",
+			"= $content->sContentImage)",
+			"dataArr.",
+			"+",
+			"contentAssets",
+			",\n",
+			"touch",
+			"5",
+			"4",
+			"upload-img",
+			"image",
+			"multi",
+			"finalDesc",
+			"contentAssets",
+			"                ",
+			"remove",
+			".img",
+			",",
+			"imgareaselect-selection",
+			"<pre>",
+			"pre",
+			"\t\t\t\t\t",
+			"\t\t\t\t",
+			"//\t\t",
+			"<pre>",
+			"\"<pre>\"",
+			"ContentAssets"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$StudentProfile",
+			"<div class=\"form-group form-control-material static\">",
+			"Loose fit. plenty of room to move",
+			"Classic, traditional fit",
+			"Tailored fit but not too tight",
+			"Very slim and close to the body",
+			"Skinny",
+			"Standard",
+			"Muscular",
+			"Overweight",
+			"Both",
+			"UnTucked",
+			"Tucked",
+			"long",
+			"normal",
+			"short",
+			"in",
+			"cm",
+			"kg",
+			"lb",
+			"ft",
+			"cm"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "yiiapp.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"site",
+				"backend\\controllers\\SiteController.php"
+			],
+			[
+				"frontend/main",
+				"frontend\\config\\main.php"
+			],
+			[
+				"main.php",
+				"backend\\config\\main.php"
+			],
+			[
+				"main",
+				"backend\\config\\main.php"
+			],
+			[
+				"commonmain",
+				"common\\config\\main.php"
+			],
+			[
+				"user.php",
+				"backend\\models\\User.php"
+			],
+			[
+				"backend/controllers/usercontroller.php",
+				"backend\\controllers\\UserController.php"
+			],
+			[
+				"userc",
+				"backend\\controllers\\UserController.php"
+			],
+			[
+				"sitecontroller",
+				"backend\\controllers\\SiteController.php"
+			],
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"comm",
+				"staging_fashion_potluck\\frontend\\web\\2k16\\js\\common_min.js"
+			],
+			[
+				"asse",
+				"staging_fashion_potluck\\frontend\\web\\2k16\\js\\asset-upload.js"
+			],
+			[
+				"ass",
+				"staging_fashion_potluck\\frontend\\web\\js\\asset-upload.js"
+			],
+			[
+				"frontend/themes/2k16/layouts/head.php",
+				"staging_fashion_potluck\\frontend\\themes\\2k16\\layouts\\head.php"
+			],
+			[
+				"frontend/themes/2k16/home/index.php",
+				"staging_fashion_potluck\\frontend\\themes\\2k16\\home\\index.php"
+			],
+			[
+				"frontend/themes/2k16/home/create-content.php",
+				"staging_fashion_potluck\\frontend\\themes\\2k16\\home\\create-content.php"
+			],
+			[
+				"contentdetals/index",
+				"staging_fashion_potluck\\frontend\\themes\\2k16\\content-details\\index.php"
+			],
+			[
+				"contentdetails",
+				"staging_fashion_potluck\\frontend\\controllers\\ContentDetailsController.php"
+			],
+			[
+				"contentc",
+				"staging_fashion_potluck\\frontend\\controllers\\ContentController.php"
+			],
+			[
+				"/frontend/themes//content-details/index.php",
+				"staging_fashion_potluck\\frontend\\themes\\2k16\\content-details\\index.php"
+			],
+			[
+				"contentdetails/index",
+				"staging_fashion_potluck\\frontend\\themes\\base\\content-details\\index.php"
+			],
+			[
+				"asses",
+				"staging_fashion_potluck\\vendor\\yiisoft\\yii2\\classes.php"
+			],
+			[
+				"/frontend/themes/2k16/home/create-content.php",
+				"staging_fashion_potluck\\frontend\\themes\\2k16\\home\\create-content.php"
+			],
+			[
+				"/frontend/themes/2k16/popup/_image_tagging_brands.php",
+				"staging_fashion_potluck\\frontend\\themes\\2k16\\popup\\_image_tagging_brands.php"
+			],
+			[
+				"/home/create-content.php",
+				"staging_fashion_potluck\\frontend\\themes\\2k16\\home\\create-content.php"
+			],
+			[
+				"contentdeta",
+				"staging_fashion_potluck\\frontend\\controllers\\ContentDetailsController.php"
+			],
+			[
+				"content-details/index",
+				"staging_fashion_potluck\\frontend\\themes\\2k16\\content-details\\index.php"
+			],
+			[
+				"jqueryimgarease",
+				"Photo-tagging-master\\js\\jquery.imgareaselect-0.8.min.js"
+			],
+			[
+				"creat-content",
+				"staging_fashion_potluck\\frontend\\themes\\2k16\\home\\create-content.php"
+			],
+			[
+				"homec",
+				"staging_fashion_potluck\\frontend\\controllers\\HomeController.php"
+			],
+			[
+				"frontend/models/contentassets",
+				"staging_fashion_potluck\\frontend\\models\\ContentAssets.php"
+			],
+			[
+				"contentassets",
+				"staging_fashion_potluck\\common\\models\\ContentAssets.php"
+			],
+			[
+				"gener",
+				"staging_fashion_potluck\\frontend\\web\\js\\general.js"
+			],
+			[
+				"commojs",
+				"staging_fashion_potluck\\frontend\\web\\2k16\\js\\common_min.js"
+			],
+			[
+				"login",
+				"staging_fashion_potluck\\frontend\\web\\2k16\\js\\login_user.min.js"
+			],
+			[
+				"facebookcurlhttpcline",
+				"staging_fashion_potluck\\common\\helpers\\Facebook\\HttpClients\\FacebookCurlHttpClient.php"
+			],
+			[
+				"/vendor/kartik-v/php-sdk-v4/src/facebook/httpclients/facebookcurlhttpclient.php",
+				"staging_fashion_potluck\\vendor\\kartik-v\\php-sdk-v4\\src\\Facebook\\HttpClients\\FacebookCurlHttpClient.php"
+			],
+			[
+				"httpclient",
+				"staging_fashion_potluck\\common\\helpers\\Facebook\\HttpClients\\FacebookCurlHttpClient.php"
+			],
+			[
+				"content",
+				"staging_fashion_potluck\\backend\\models\\Content.php"
+			],
+			[
+				"create-content",
+				"staging_fashion_potluck\\frontend\\themes\\2k16\\home\\create-content.php"
+			],
+			[
+				"contentdetailsc",
+				"staging_fashion_potluck\\frontend\\controllers\\ContentDetailsController.php"
+			],
+			[
+				"main-local",
+				"staging_fashion_potluck\\common\\config\\main-local.php"
+			],
+			[
+				"designde",
+				"staging_fashion_potluck\\frontend\\assets\\DesignDefaultAsset.php"
+			],
+			[
+				"design",
+				"staging_fashion_potluck\\frontend\\assets\\DesignDefaultAsset.php"
+			],
+			[
+				"desdefa",
+				"staging_fashion_potluck\\frontend\\assets\\DesignDefaultAsset.php"
+			],
+			[
+				"guest",
+				"staging_fashion_potluck\\frontend\\web\\2k16\\js\\guest_user.min.js"
+			],
+			[
+				"blog_posts",
+				"staging_fashion_potluck\\frontend\\themes\\2k16\\blog\\blog_posts.php"
+			],
+			[
+				"blog",
+				"staging_fashion_potluck\\frontend\\themes\\2k16\\home\\blog.php"
+			],
+			[
+				"homecot",
+				"staging_fashion_potluck\\frontend\\controllers\\HomeController.php"
+			],
+			[
+				"designdefaultasse",
+				"staging_fashion_potluck\\frontend\\assets\\DesignDefaultAsset.php"
+			],
+			[
+				"/vendor/kartik-v/php-sdk-v4/facebook",
+				"staging_fashion_potluck\\vendor\\kartik-v\\php-sdk-v4\\src\\Facebook\\GraphUser.php"
+			],
+			[
+				"params",
+				"staging_fashion_potluck\\frontend\\config\\params.php"
+			],
+			[
+				"contec",
+				"staging_fashion_potluck\\backend\\controllers\\ContentController.php"
+			],
+			[
+				"main.",
+				"staging_fashion_potluck\\backend\\config\\main.php"
+			],
+			[
+				"mian",
+				"Photo-tagging-master\\css\\imgareaselect-animated.css"
+			],
+			[
+				"guest_",
+				"staging_fashion_potluck\\frontend\\web\\2k16\\js\\guest_user.min.js"
+			],
+			[
+				"login_",
+				"staging_fashion_potluck\\frontend\\web\\2k16\\js\\login_user.min.js"
+			],
+			[
+				"guest.min",
+				"staging_fashion_potluck\\frontend\\web\\2k16\\js\\guest_user.min.js"
+			],
+			[
+				"_image",
+				"staging_fashion_potluck\\frontend\\themes\\2k16\\popup\\_image_tagging_brands.php"
+			],
+			[
+				"createc",
+				"staging_fashion_potluck\\frontend\\themes\\2k16\\home\\createcontent.php"
+			],
+			[
+				"_image_tagging_brands",
+				"frontend\\themes\\2k16\\popup\\_image_tagging_brands.php"
+			],
+			[
+				"create",
+				"frontend\\themes\\2k16\\home\\create-content.php"
+			],
+			[
+				"param",
+				"frontend\\config\\params.php"
+			],
+			[
+				"vide",
+				"frontend\\controllers\\VideoProcessController.php"
+			],
+			[
+				"content-block/content-holder",
+				"frontend\\themes\\2k16\\content-block\\content-holder.php"
+			],
+			[
+				"home/index",
+				"frontend\\themes\\2k16\\home\\index.php"
+			],
+			[
+				"homecontre",
+				"frontend\\controllers\\HomeController.php"
+			],
+			[
+				"frontend/controllers/videoprocesscontroller.php",
+				"frontend\\controllers\\VideoProcessController.php"
+			],
+			[
+				"homeco",
+				"frontend\\controllers\\HomeController.php"
+			],
+			[
+				"videoprocessc",
+				"frontend\\controllers\\VideoProcessController.php"
+			],
+			[
+				"videoprocesscontroller.php",
+				"console\\controllers\\VideoProcessController.php"
+			],
+			[
+				"_social-login-block.",
+				"frontend\\themes\\2k16\\popup\\_social-login-block.php"
+			],
+			[
+				"_social-login-block.php",
+				"frontend\\themes\\2k16\\popup\\_social-login-block.php"
+			],
+			[
+				"asset-upload.js",
+				"frontend\\web\\2k16\\js\\asset-upload.js"
+			],
+			[
+				"homecon",
+				"frontend\\controllers\\HomeController.php"
+			],
+			[
+				"model/content",
+				"frontend\\models\\Content.php"
+			],
+			[
+				"modelscontent",
+				"backend\\models\\Content.php"
+			],
+			[
+				"social-edit",
+				"frontend\\themes\\2k16\\user\\social-edit.php"
+			],
+			[
+				"social_registration",
+				"frontend\\themes\\2k16\\layouts\\social_registration.php"
+			],
+			[
+				"homeconte",
+				"frontend\\controllers\\HomeController.php"
+			],
+			[
+				"content-detials",
+				"frontend\\themes\\2k16\\content-details\\static_data.php"
+			],
+			[
+				"parama",
+				"frontend\\config\\params-local.php"
+			],
+			[
+				"content-details/index.php",
+				"frontend\\themes\\2k16\\content-details\\index.php"
+			],
+			[
+				"_image-block",
+				"frontend\\themes\\2k16\\content-block\\_image-block.php"
+			],
+			[
+				"rontend/themes/2k16/home/index.php",
+				"frontend\\themes\\2k16\\home\\index.php"
+			],
+			[
+				"frontend/themes/2k16/blog/index.php",
+				"frontend\\themes\\2k16\\blog\\index.php"
+			],
+			[
+				"frontend/themes/2k16/profile/index.php",
+				"frontend\\themes\\2k16\\profile\\index.php"
+			],
+			[
+				"frontend/themes/2k16/content-details/index.php",
+				"frontend\\themes\\2k16\\content-details\\index.php"
+			],
+			[
+				"basecon",
+				"common\\controllers\\BaseController.php"
+			],
+			[
+				"genera",
+				"frontend\\web\\js\\general.js"
+			],
+			[
+				"general",
+				"frontend\\web\\js\\general.js"
+			],
+			[
+				"profie/index",
+				"frontend\\themes\\2k16\\profile\\index.php"
+			],
+			[
+				"image",
+				"frontend\\themes\\2k16\\content-block\\_image-block.php"
+			],
+			[
+				"load",
+				"frontend\\themes\\2k16\\content-block\\load-more.php"
+			],
+			[
+				"ontent-block/load-more.",
+				"frontend\\themes\\2k16\\content-block\\load-more.php"
+			],
+			[
+				"content-block",
+				"frontend\\themes\\2k16\\content-block\\content-block.php"
+			],
+			[
+				"content-holder",
+				"frontend\\themes\\2k16\\content-block\\content-holder.php"
+			],
+			[
+				"videprocess",
+				"frontend\\controllers\\VideoProcessController.php"
+			],
+			[
+				"videopreo",
+				"frontend\\controllers\\VideoProcessController.php"
+			],
+			[
+				"videoprocessqueue",
+				"frontend\\models\\VideoProcessQueue.php"
+			],
+			[
+				"content-block/content-block",
+				"frontend\\themes\\2k16\\content-block\\content-block.php"
+			],
+			[
+				"content-block/content-holder.php",
+				"frontend\\themes\\base\\content-block\\content-holder.php"
+			],
+			[
+				"profile/index",
+				"frontend\\themes\\2k16\\profile\\index.php"
+			],
+			[
+				"profilec",
+				"frontend\\controllers\\ProfileController.php"
+			],
+			[
+				"content-block/content-block.php",
+				"frontend\\themes\\2k16\\content-block\\content-block.php"
+			],
+			[
+				"/content-block/content-holder.php",
+				"frontend\\themes\\2k16\\content-block\\content-holder.php"
+			],
+			[
+				"content-block/content",
+				"frontend\\themes\\2k16\\content-block\\content-block.php"
+			],
+			[
+				"desdefau",
+				"frontend\\assets\\DesignDefaultAsset.php"
+			],
+			[
+				"login.css",
+				"frontend\\web\\2k16\\css\\login_user.min.css"
+			],
+			[
+				"app",
+				"frontend\\web\\2k16\\css\\app.min.css"
+			],
+			[
+				"user",
+				"frontend\\controllers\\UserController.php"
+			],
+			[
+				"content-block/load-more.php",
+				"frontend\\themes\\2k16\\content-block\\load-more.php"
+			],
+			[
+				"content-details",
+				"frontend\\themes\\2k16\\content-details\\index.php"
+			],
+			[
+				"content-deta",
+				"frontend\\themes\\2k16\\content-details\\index.php"
+			],
+			[
+				"defa",
+				"frontend\\assets\\DesignDefaultAsset.php"
+			],
+			[
+				"model/prof",
+				"fp_pro\\frontend\\models\\UserProfileViewLog.php"
+			],
+			[
+				"contentdetails/id",
+				"fp_pro\\frontend\\themes\\2k16\\content-details\\index.php"
+			],
+			[
+				"home",
+				"frontend\\controllers\\HomeController.php"
+			],
+			[
+				"header/index",
+				"frontend\\themes\\2k16\\header\\index.php"
+			],
+			[
+				"catego",
+				"frontend\\themes\\2k16\\layouts\\category_menu.php"
+			],
+			[
+				"head",
+				"frontend\\themes\\2k16\\layouts\\head.php"
+			],
+			[
+				"cate",
+				"frontend\\themes\\2k16\\layouts\\category_menu.php"
+			],
+			[
+				"load-more.php",
+				"frontend\\themes\\2k16\\content-block\\load-more.php"
+			],
+			[
+				"oad-more.php",
+				"frontend\\themes\\2k16\\content-block\\load-more.php"
+			],
+			[
+				"designdef",
+				"frontend\\assets\\DesignDefaultAsset.php"
+			],
+			[
+				"defau",
+				"frontend\\assets\\DefaultAsset.php"
+			],
+			[
+				"2k16/layouts/m",
+				"frontend\\themes\\2k16\\layouts\\main.php"
+			],
+			[
+				"layouts/main",
+				"backend\\views\\layouts\\main.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Projects\\wamp64\\www\\mimedic2016\\mimidic2016.sublime-project"
+			],
+			[
+				"m",
+				"D:\\Projects\\wamp64\\www\\mimedic2016\\mimidic2016.sublime-project"
+			],
+			[
+				"mem",
+				"D:\\Projects\\wamp64\\www\\mimedic2016\\mimidic2016.sublime-project"
+			],
+			[
+				"online",
+				"D:\\Projects\\wamp64\\www\\online_web_chat\\online_web_chat.sublime-project"
+			],
+			[
+				"fp",
+				"D:\\Projects\\wamp64\\www\\fashion_potluck\\fashoin_potluck.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,17 @@
+Database name: yii2advanced
+Username and Password:
+
+masteradmin
+firstmasteradmin/admin@123
+
+admin
+firstadmin/123123
+
+user
+firstuser/123123
+
+
+Backend side:
+
+User role is checking in this method. Default allowed for only masteradmin and admin
+ -> /backend/models/LoginForm.php :: login()
