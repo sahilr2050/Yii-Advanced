@@ -1,4 +1,4 @@
-Yii 2 Advanced Project Template
+Yii 2 Advanced Project Template With RBAC ready
 ===============================
 
 Yii 2 Advanced Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
@@ -10,7 +10,11 @@ is a separate Yii application.
 The template is designed to work in a team development environment. It supports
 deploying the application in different environments.
 
-Documentation is at [docs/guide/README.md](docs/guide/README.md).
+SQL file is also added in the repository. Just import it in your database.
+
+Please run this command after download and extract this zip
+
+`composer update`
 
 [![Latest Stable Version](https://poser.pugx.org/yiisoft/yii2-app-advanced/v/stable.png)](https://packagist.org/packages/yiisoft/yii2-app-advanced)
 [![Total Downloads](https://poser.pugx.org/yiisoft/yii2-app-advanced/downloads.png)](https://packagist.org/packages/yiisoft/yii2-app-advanced)
@@ -24,7 +28,7 @@ common
     config/              contains shared configurations
     mail/                contains view files for e-mails
     models/              contains model classes used in both backend and frontend
-    tests/               contains tests for common classes    
+    tests/               contains tests for common classes
 console
     config/              contains console configurations
     controllers/         contains console controllers (commands)
@@ -37,7 +41,7 @@ backend
     controllers/         contains Web controller classes
     models/              contains backend-specific model classes
     runtime/             contains files generated during runtime
-    tests/               contains tests for backend application    
+    tests/               contains tests for backend application
     views/               contains view files for the Web application
     web/                 contains the entry script and Web resources
 frontend
