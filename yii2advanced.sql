@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: Sep 06, 2017 at 01:05 PM
+-- Generation Time: Sep 12, 2017 at 06:56 AM
 -- Server version: 5.7.9
 -- PHP Version: 5.6.16
 
@@ -114,7 +114,32 @@ CREATE TABLE IF NOT EXISTS `auth_rule` (
 --
 
 INSERT INTO `auth_rule` (`name`, `data`, `created_at`, `updated_at`) VALUES
-('isUser', 0x4f3a32333a226261636b656e645c726261635c417574686f7252756c65223a333a7b733a343a226e616d65223b733a383a226973417574686f72223b733a393a22637265617465644174223b693a313530343639373836373b733a393a22757064617465644174223b693a313530343639373836373b7d, 1504697867, 1504697867);
+('isUser', 0x4f3a32313a226261636b656e645c726261635c5573657252756c65223a333a7b733a343a226e616d65223b733a363a22697355736572223b733a393a22637265617465644174223b693a313530343736353439363b733a393a22757064617465644174223b693a313530343736353439363b7d, 1504765496, 1504765496);
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `menu`
+--
+
+DROP TABLE IF EXISTS `menu`;
+CREATE TABLE IF NOT EXISTS `menu` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(128) NOT NULL,
+  `parent` int(11) DEFAULT NULL,
+  `route` varchar(255) DEFAULT NULL,
+  `order` int(11) DEFAULT NULL,
+  `data` blob,
+  PRIMARY KEY (`id`),
+  KEY `parent` (`parent`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
+
+--
+-- Dumping data for table `menu`
+--
+
+INSERT INTO `menu` (`id`, `name`, `parent`, `route`, `order`, `data`) VALUES
+(1, 'Role Management', NULL, NULL, 0, NULL);
 
 -- --------------------------------------------------------
 
@@ -136,7 +161,9 @@ CREATE TABLE IF NOT EXISTS `migration` (
 INSERT INTO `migration` (`version`, `apply_time`) VALUES
 ('m000000_000000_base', 1504694122),
 ('m130524_201442_init', 1504694126),
-('m140506_102106_rbac_init', 1504695807);
+('m140506_102106_rbac_init', 1504695807),
+('m140602_111327_create_menu_table', 1504763019),
+('m160312_050000_create_user', 1504763019);
 
 -- --------------------------------------------------------
 
@@ -169,7 +196,7 @@ INSERT INTO `user` (`id`, `username`, `auth_key`, `password_hash`, `password_res
 (1, 'firstmasteradmin', 'ZBdxcOMJe-Jf4QkAGjmch-SV9_RWb5YQ', '$2y$13$bkMbv4d3u9Oi5BQhY.yNEu/pRWuUBom35VFxN0cMsuLI.2Koks5Jy', NULL, 'sahil.r2050@yahoo.in', 10, 1504698345, 1504698345),
 (2, 'firstadmin', '1ofmFl6kcVD4Z8XNn7FRwtBLTX-JNPe_', '$2y$13$sGgmKhHsujIkLbZSMdujqufPayFXvZf5cvm0eTlXcF5q1RYqy7Eem', NULL, 'sahilr2050@yahoo.in', 10, 1504698404, 1504698404),
 (3, 'firstuser', 'OZXz536d-KmoCQj39C0ynh8SsW0yO43X', '$2y$13$MO7brplgqlMet67GuevfSe07v4mi5.tIAR8nhETB.JcCF/StjMWzS', NULL, 'sahil.r2050@hotmail.com', 10, 1504700431, 1504700431),
-(4, 'seconduser', 'mTQyjN1zS7U4PpA18VhupCqWYCDUe5LM', '$2y$13$f7cPDispq5rr9LDk4hfC0euSKlERgo30LJhOWsn/k3q1Zy./MepYK', NULL, 'sahil.patel@internal.mail', 10, 1504700928, 1504700928);
+(4, 'seconduser', 'mTQyjN1zS7U4PpA18VhupCqWYCDUe5LM', '$2y$13$f7cPDispq5rr9LDk4hfC0euSKlERgo30LJhOWsn/k3q1Zy./MepYK', NULL, 'sahil.patel@internal.mail', 0, 1504700928, 1504778138);
 
 --
 -- Constraints for dumped tables
@@ -193,6 +220,12 @@ ALTER TABLE `auth_item`
 ALTER TABLE `auth_item_child`
   ADD CONSTRAINT `auth_item_child_ibfk_1` FOREIGN KEY (`parent`) REFERENCES `auth_item` (`name`) ON DELETE CASCADE ON UPDATE CASCADE,
   ADD CONSTRAINT `auth_item_child_ibfk_2` FOREIGN KEY (`child`) REFERENCES `auth_item` (`name`) ON DELETE CASCADE ON UPDATE CASCADE;
+
+--
+-- Constraints for table `menu`
+--
+ALTER TABLE `menu`
+  ADD CONSTRAINT `menu_ibfk_1` FOREIGN KEY (`parent`) REFERENCES `menu` (`id`) ON DELETE SET NULL ON UPDATE CASCADE;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
